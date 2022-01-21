@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Danel Adatia",
+      "address": "USA",
+      "email": "d@d.com",
+      "contact": "123",
+      "id": 1
+    },
+    {
+      "name": "Selena",
+      "address": "Canada",
+      "email": "s@s.com",
+      "contact": "456",
+      "id": 2
+    }
+  ]
+}
